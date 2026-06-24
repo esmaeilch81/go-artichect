@@ -1,4 +1,4 @@
-# go-artichect
+# go-artichect1
 
 A new Go project scaffold for `go-artichect`.
 
