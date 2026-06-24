@@ -1,0 +1,25 @@
+# فایل‌های محیطی (محرمانه)
+.env
+*.env
+
+# پوشه وابستگی‌ها
+node_modules/
+vendor/
+venv/
+
+# فایل‌های موقت
+tmp/
+*.log
+*.tmp
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
+
+# فایل‌های اجرایی (خروجی کامپایل)
+*.exe
+*.dll
+*.so
+*.dylib
+build/
+dist/
